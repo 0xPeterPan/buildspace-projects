@@ -31,7 +31,7 @@ pub struct StartStuffOff {}
 
 A lot happening here so let's just step line-by-line. Again, if you don't know Rust — don't worry too much. I think you can pick this stuff up pretty quickly. You won't become a Rust Master like this, but, you can worry about that later :).
 
-```rust
+```rust fv
 use anchor_lang::prelude::*;
 ```
 
